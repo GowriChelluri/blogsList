@@ -1,0 +1,25 @@
+.blog-item-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+hr {
+  color: #9aa5b1;
+}
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #12022f;
+  font-size: 20px;
+  font-weight: bold;
+}
+.published-date {
+  color: #9aa5b1;
+  font-size: 15px;
+}
+.description {
+  color: #9aa5b1;
+  font-size: 15px;
+}
